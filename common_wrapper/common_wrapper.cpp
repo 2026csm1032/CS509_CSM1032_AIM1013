@@ -29,6 +29,18 @@ int main(){
                 "assignment_1.exe"
             );
         }
+        if(choice==2){
+
+            system(
+                "cd ../assignment_2 && "
+                "g++ ./driver/main_driver.cpp -o assignment_2"
+            );
+
+            system(
+                "cd ../assignment_2 && "
+                "assignment_2.exe"
+            );
+        }
 
         else{
             cout<<"Invalid Choice\n";
