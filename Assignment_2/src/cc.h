@@ -4,11 +4,11 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-void betweennessCentrality(
+void connectedComponents(
     int V,
     vector<int>& row_ptr,
     vector<int>& col_idx,
-    vector<double>& centrality
+    vector<int>& component
 );
 
 #endif
