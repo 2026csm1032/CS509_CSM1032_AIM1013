@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 #include "../../Assignment_1/src/csr.h"
-#include "cc.h"
+#include "../src/cc.h"
 
 using namespace std;
 
@@ -104,11 +104,11 @@ int main()
 {
     vector<string> inputFiles =
     {
-        "input/cc_10.txt",
-        "input/cc_100.txt",
-        "input/cc_10000.txt",
-        "input/cc_50000.txt",
-        "input/cc_100000.txt"
+        "tests/cc/cc_10.txt",
+        "tests/cc/cc_100.txt",
+        "tests/cc/cc_10000.txt",
+        "tests/cc/cc_50000.txt",
+        "tests/cc/cc_100000.txt"
     };
 
     vector<string> outputFiles =
