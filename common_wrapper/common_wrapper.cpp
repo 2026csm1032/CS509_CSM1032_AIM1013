@@ -7,6 +7,7 @@ int main(){
 
         cout<<"\n========== PG SOFTWARE LAB ==========\n";
         cout<<"1. Assignment 1\n";
+        cout<<"2. Assignment 2\n";
         cout<<"0. Exit\n\n";
 
         int choice;
