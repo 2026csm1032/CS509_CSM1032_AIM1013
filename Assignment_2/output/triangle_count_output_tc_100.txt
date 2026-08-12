@@ -1,0 +1,5 @@
+Algorithm: Triangle Counting
+
+Number Of Triangles: 6
+
+Execution Time: 0.0559 ms
