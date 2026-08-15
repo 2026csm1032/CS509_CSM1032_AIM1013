@@ -8,6 +8,7 @@ int main(){
         cout<<"\n========== PG SOFTWARE LAB ==========\n";
         cout<<"1. Assignment 1\n";
         cout<<"2. Assignment 2\n";
+        cout<<"3. Assignment 3\n";
         cout<<"0. Exit\n\n";
 
         int choice;
@@ -40,6 +41,18 @@ int main(){
             system(
                 "cd ../assignment_2 && "
                 "assignment_2.exe"
+            );
+        }
+        if(choice==3){
+
+            system(
+                "cd ../assignment_3 && "
+                "g++ ./driver/main_driver.cpp -o assignment_3"
+            );
+
+            system(
+                "cd ../assignment_3 && "
+                "assignment_3.exe"
             );
         }
 
