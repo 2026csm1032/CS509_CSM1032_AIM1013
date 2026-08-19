@@ -1,0 +1,22 @@
+========== Maxflow-Mincut ==========
+
+Vertices: 10
+Edges: 16
+Source: 0
+Sink: 9
+
+Maximum Flow: 20
+Minimum Cut Capacity: 20
+
+Source Side:
+0 1 2 3 4 5 6 
+
+Sink Side:
+7 8 9 
+
+Cut Edges:
+3 -> 7 : 6
+5 -> 9 : 8
+6 -> 8 : 6
+
+Execution Time: 0.0438 ms
