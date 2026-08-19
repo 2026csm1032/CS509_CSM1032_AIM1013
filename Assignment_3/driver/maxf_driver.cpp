@@ -1,12 +1,7 @@
 #include "../src/maxf.h"
 #include "../../Assignment_1/src/csr.h"
 
-#include <iostream>
-#include <fstream>
-#include <vector>
-#include <string>
-#include <chrono>
-#include <filesystem>
+#include<bits/stdc++.h>
 
 using namespace std;
 
