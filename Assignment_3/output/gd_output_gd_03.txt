@@ -1,0 +1,7 @@
+Algorithm: Gradient Descent
+Degree: 6
+Final x: 0.000000483545
+Final f(x): 0.000000000000
+Iterations: 349
+Converged: true
+Execution Time: 1.003000000000 microseconds
